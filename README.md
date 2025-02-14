@@ -1,6 +1,4 @@
 # Data-Rangling-project
-Data Rangling project using python
-# Supermarket Data Wrangling & Business Insights
 
 ## Overview
 This project focuses on cleaning, transforming, and analyzing a supermarket sales dataset to extract actionable business insights. The dataset includes transaction records with details such as unit prices, quantities, totals, taxes, dates, times, ratings, payment methods, and city information.
