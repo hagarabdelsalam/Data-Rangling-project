@@ -20,4 +20,4 @@ This project focuses on cleaning, transforming, and analyzing a supermarket sale
   - `Rating` (customer ratings on a scale from 1 to 5)
   - City indicator columns (`Yangon`, `Naypyitaw`, `Mandalay`) are used to create a unified `City` column
 
-## Project Structure
+
